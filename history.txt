@@ -1,0 +1,267 @@
+    1  bash -version
+    2  clear
+    3  whoami
+    4  pwd
+    5  ls
+    6  cd ..
+    7  ls
+    8  pwd
+    9  cd 
+   10  ls
+   11  clear
+   12  curl -fsSL https://git.io/v50Ta | ruby
+   13  ls
+   14  Desktop
+   15  Desktop/
+   16  Desktop/
+   17  Desktop/
+   18  ls
+   19  ls
+   20  cd ..
+   21  ls
+   22  ..
+   23  ls
+   24  cd
+   25  ls
+   26  cd Documents/
+   27  ls
+   28  ls
+   29  mkdir Backgrounds
+   30  ls
+   31  exit
+   32  brew install git
+   33  git --version
+   34  brew install bash-completion
+   35  curl -fsSL https://git.io/v504A | ruby
+   36  git config --global user.name 'Jonathan Foss'
+   37  git config --global user.email jfoss@amazon.com
+   38  git config --list
+   39  curl -fsSL https://git.io/v500H | sh
+   40  git config --list
+   41  clear
+   42  ls help
+   43  man ls
+   44  exit
+   45  Desktop/
+   46  clear
+   47  whoami
+   48  clear
+   49  ls 
+   50  ls ..
+   51  ls /Desktop/
+   52  cd ..
+   53  ls
+   54  cd Desktop/
+   55  ls .
+   56  cd ..
+   57  ls
+   58  ls ..
+   59  open .
+   60  cd ~/Desktop/
+   61  open .
+   62  ls -al
+   63  ls -l
+   64  ls -h
+   65  ls -hl
+   66  ll
+   67  ls -hal
+   68  cd 
+   69  ls -hal
+   70  la
+   71  python
+   72  python3
+   73  brew search python
+   74  brew search python3
+   75  man ls
+   76  clear
+   77  ls
+   78  ls -A
+   79  ls -Al
+   80  man ls
+   81  ls -1
+   82  man ls
+   83  ls -ks
+   84  cd Desktop/
+   85  ls -ks
+   86  ls -l
+   87  man ls
+   88  cd ..
+   89  ls
+   90  ls -R
+   91  ls
+   92  cd Desktop/
+   93  ls
+   94  ls -al
+   95  cd -R
+   96  ls -R
+   97  ls
+   98  cd ..
+   99  man ls
+  100  clear
+  101  man cd
+  102  help cd
+  103  env
+  104  echo $SHELL
+  105  echo $LOGNAME
+  106  echo $PATH
+  107  which which
+  108  ls /usr/bin/
+  109  man malloc_history
+  110  malloc_history
+  111  pid
+  112  ps
+  113  ps
+  114  man ps
+  115  ps -A
+  116  man [
+  117  ls
+  118  cd Desktop/
+  119  ls
+  120  echo $EDITOR
+  121  [ -b "Tomorrow Night Eighties.terminal"
+  122  [ -b "Tomorrow Night Eighties.terminal" ]
+  123  echo [ -b "Tomorrow Night Eighties.terminal" ]
+  124  naon ~/.bash_profile
+  125  nano ~/.bash_profile
+  126  echo $EDITOR
+  127  ls
+  128  Desktop/
+  129  ls
+  130  if [ -b "Tomorrow Night Eighties.terminal"]: echo "found it"; 
+  131  if [ -b "Tomorrow Night Eighties.terminal"]: echo "found it" fi ; ;
+  132  if [ -b "Tomorrow Night Eighties.terminal"]: echo "found it" fi ;
+  133  if [ -b "Tomorrow Night Eighties.terminal"] then echo "found it";
+  134  if [ -b "Tomorrow Night Eighties.terminal"] then echo "found it"
+  135  if [ -b "Tomorrow Night Eighties.terminal"] then echo "found it" fi; ;
+  136  if [ -b "Tomorrow Night Eighties.terminal"]; then  echo "found it"; fi
+  137  if [ -b "Tomorrow Night Eighties.terminal" ]; then  echo "Found it"; fi
+  138  pwd
+  139  if [ $(pwd) == "/Users/jfoss/Desktop" ]; then  echo "This is your desktop."; fi
+  140  which which
+  141  which tada
+  142  brew install tree
+  143  cd
+  144  tree ~
+  145  tree -L 1 ~
+  146  cd /
+  147  ls
+  148  ll
+  149  tree -L 1
+  150  tree -L 3
+  151  clear
+  152  ll
+  153  ll
+  154  clear
+  155  ls
+  156  cd ../
+  157  ls
+  158  cd var
+  159  ls
+  160  cd tmp
+  161  ls
+  162  cd kernel_panics/
+  163  ls
+  164  cd ..
+  165  cd ..
+  166  ls
+  167  cd rpc/
+  168  ls
+  169  cd ncalrpc/
+  170  ls
+  171  ls srvsvc 
+  172  cd ..
+  173  ls
+  174  cd ..
+  175  ls
+  176  cd ma
+  177  ll
+  178  cd rwho
+  179  ls
+  180  ls
+  181  cd ..
+  182  cd root/
+  183  ls
+  184  sudo cd root
+  185  ls
+  186  cd agentx/
+  187  ls
+  188  sudo cd agentx/
+  189  ls
+  190  cd agentx/
+  191  cd agentx/
+  192  sudo cd agentx/
+  193  ls
+  194  ll
+  195  cd ..
+  196  ls
+  197  cd ..
+  198  cd 
+  199  ls
+  200  cd ../..
+  201  ls
+  202  cd tmp/
+  203  ls
+  204  ll
+  205  cd taniuminstall/
+  206  ls
+  207  cd ..
+  208  ls
+  209  cd cvcd/
+  210  sudo cd cvcd
+  211  sudo ls cvcd
+  212  clear
+  213  java -version
+  214  cd
+  215  ls
+  216  c
+  217  clear
+  218  ls
+  219  mkdir ~/Projects
+  220  cd Projects/
+  221  ls
+  222  mkdir week01
+  223  cd week01/
+  224  mkdir notebook
+  225  notebook/
+  226  touch notes.txt
+  227  ls
+  228  ll
+  229  clear
+  230  cat notes.txt 
+  231  nano notes.txt 
+  232  cat notes.txt
+  233  cp notes.txt commands.txt
+  234  ls
+  235  ll
+  236  rm commands.txt
+  237  ll
+  238  ll
+  239  mkdir temp
+  240  rmdir temp
+  241  ll
+  242  mkdir temp
+  243  ls
+  244  rm temp
+  245  rmdir temp
+  246  ls
+  247  cd ..
+  248  rm -r notebook/
+  249  ll
+  250  ll
+  251  clear
+  252  ls
+  253  mkdir notebook
+  254  ls
+  255  touch notes.txt
+  256  ls
+  257  mv notes.txt notebook/
+  258  ls
+  259  cd notebook/
+  260  ls
+  261  nano notes.txt 
+  262  nano notes.txt 
+  263  claer
+  264  clear*
+  265  clear
+  266  history
+  267  history > history.txt
