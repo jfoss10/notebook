@@ -1,0 +1,7 @@
+Touch is a quick and easy way to create a file. 
+One can then open said file in an editor, such as nano. 
+If you need to move or rename a file, simply use the 'mv' command. 
+Renaming is simplying 'moving' a file to the same directory, but under a new name.
+If you wish to copy a file to a new location, you can use 'cp' in a similar fashion
+as 'mv'.
+Removal of files and directories can be done with the 'rm' and 'rmdir' commands.
