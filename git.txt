@@ -1,0 +1,5 @@
+To add files into your git repository it can be as simple as creating or modifying the file, running the 
+'git add' command with your file, and finally running 'git commit'. You can add a message to the commit
+by providing the '-m' flag followed by your message string. It is important to note that Git only looks at
+files, not directories. Empty directories will be ignored. To avoid this you can add a file such as '.gitkeep'
+to maintain file structures.
